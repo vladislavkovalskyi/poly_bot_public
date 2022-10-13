@@ -2,7 +2,7 @@
 ##### *Version 1.0.0 Release*
 ###### Created by **[Vladislav Kovalskyi](https://t.me/vladislavkovalskyi)**
 <br>
-<img src="src/images/poly_logo.png" alt="Poly Logo" width="300"/>
+<img src="Logo.png" alt="Poly Logo" width="300"/>
 
 <br><br>
 
