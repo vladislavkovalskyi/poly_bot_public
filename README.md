@@ -17,7 +17,7 @@
 > <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/figma.svg" /> Добре знання Figma, Photoshop, Illustrator, уміння малювати, рівні руки та кльові ідеї.
 
 ### Останні зміни
-*Updated: 20/10/2022 17:45*
+*Updated: 20/10/2022 17:45 (dd/mm/yyyy HH:MM)*
 
 > Команди `/kiss`, `/hit`, `/sex`, за допомогою яких можна взаємодіяти з іншими плеєрами.
 
