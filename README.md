@@ -17,7 +17,7 @@
 > <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/figma.svg" /> Добре знання Figma, Photoshop, Illustrator, уміння малювати, рівні руки та кльові ідеї.
 
 ### Останні зміни
-*Updated: 20/10/2022 17:45 (dd/mm/yyyy HH:MM)*
+*Updated: 22/10/2022 10:15 (dd/mm/yyyy HH:MM)*
 
 > Команда `/timetable [day]` - тепер, якщо зараз `середа`, а ви напишете `/timetable понеділок`, то Поля покаже розклад за наступний тиждень
 
