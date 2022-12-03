@@ -1,5 +1,5 @@
 # [Poly](https://t.me/politech_poly_bot) - помічник АІ-226
-##### *Version 1.2.0 Release*
+##### *Version 1.2.1 Release*
 ###### Created by **[Vladislav Kovalskyi](https://t.me/vladislavkovalskyi)**
 <br>
 <img src="Logo.png" alt="Poly Logo" width="300"/>
@@ -17,11 +17,13 @@
 > <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/figma.svg" /> Добре знання Figma, Photoshop, Illustrator, уміння малювати, рівні руки та кльові ідеї.
 
 ### Останні зміни
-*Updated: 02/12/2022 7:07 (dd/mm/yyyy HH:MM)*
+*Updated: 03/12/2022 2:18 (dd/mm/yyyy HH:MM)*
+
+> Команда `/top` - тепер топ показує повідомлення на картинці!
 
 > Команда `/nickname [text]` - зміна ігрового ніку
 
-> Команда `/level` - тепер показує всю інфу про левел на картинках!
+> Команда `/level` - тепер показує всю інфу про левел на картинці!
 
 ### В майбутньому оновленні 2.0
 > ✅❌ Зробити бота повністю кастомізованним, щоб можна було редагрувати, додавати свої предмети, змінювати час початку/кінця.
